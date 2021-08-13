@@ -14,7 +14,6 @@ import Contacts from 'react-native-contacts';
 
 import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
-import AntDesign from 'react-native-vector-icons/AntDesign';
 import {getColorByLetter} from '../utils';
 
 export default function Profile({navigation, route}) {
